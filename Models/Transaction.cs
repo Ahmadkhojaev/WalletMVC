@@ -1,4 +1,6 @@
-using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace WalletMVC.Models;
 public class Transaction
 {

@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/WalletMVC.csproj": {}
+    "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\WalletMVC.csproj": {}
   },
   "projects": {
-    "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/WalletMVC.csproj": {
+    "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\WalletMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/WalletMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\WalletMVC.csproj",
         "projectName": "WalletMVC",
-        "projectPath": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/WalletMVC.csproj",
-        "packagesPath": "/Users/j/.nuget/packages/",
-        "outputPath": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/obj/",
+        "projectPath": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\WalletMVC.csproj",
+        "packagesPath": "C:\\Users\\Ahmad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/j/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,8 +71,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400-preview.22330.6/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

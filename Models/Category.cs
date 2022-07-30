@@ -14,11 +14,4 @@ public class Category
     public string? Icon { get; set; }
     [Column(TypeName = "nvarchar(10)")]
     public string? Type { get; set; }
-
-
-    
-    
-    
-    
-    
 }

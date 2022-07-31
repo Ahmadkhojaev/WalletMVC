@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "Hash": "tVHEzjlbhqYCG4t0wfMdX/Ax8prdZlObLyNoDwz7bb8=",
+=======
   "Hash": "Ne6e4mlQLtJAEblNqKq0Yp5oXfIKlTHXtqNK+P5TWfM=",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
   "Source": "WalletMVC",
   "BasePath": "_content/WalletMVC",
   "Mode": "Default",
@@ -8,19 +12,32 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
+<<<<<<< HEAD
+      "Name": "WalletMVC\\wwwroot",
+      "Source": "WalletMVC",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "Name": "WalletMVC/wwwroot",
       "Source": "WalletMVC",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WalletMVC.styles.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+=======
       "Identity": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/obj/Debug/net6.0/scopedcss/bundle/WalletMVC.styles.css",
       "SourceId": "WalletMVC",
       "SourceType": "Computed",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/obj/Debug/net6.0/scopedcss/bundle/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "WalletMVC.styles.css",
       "AssetKind": "All",
@@ -31,6 +48,15 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WalletMVC.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WalletMVC.bundle.scp.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+=======
       "OriginalItemSpec": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/obj/Debug/net6.0/scopedcss/bundle/WalletMVC.styles.css"
     },
     {
@@ -38,6 +64,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Computed",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/obj/Debug/net6.0/scopedcss/projectbundle/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "WalletMVC.bundle.scp.css",
       "AssetKind": "All",
@@ -48,6 +75,15 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WalletMVC.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\css\\site.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/obj/Debug/net6.0/scopedcss/projectbundle/WalletMVC.bundle.scp.css"
     },
     {
@@ -55,6 +91,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -65,6 +102,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\favicon.ico",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
@@ -72,6 +118,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -82,6 +129,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\js\\site.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
@@ -89,6 +145,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -99,6 +156,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
@@ -106,6 +172,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -116,6 +183,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
@@ -123,6 +199,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -133,6 +210,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
@@ -140,6 +226,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -150,6 +237,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
@@ -157,6 +253,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -167,6 +264,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
@@ -174,6 +280,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -184,6 +291,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
@@ -191,6 +307,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -201,6 +318,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
@@ -208,6 +334,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -218,6 +345,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
@@ -225,6 +361,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -235,6 +372,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
@@ -242,6 +388,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -252,6 +399,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
@@ -259,6 +415,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -269,6 +426,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
@@ -276,6 +442,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -286,6 +453,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
@@ -293,6 +469,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -303,6 +480,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
@@ -310,6 +496,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -320,6 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
@@ -327,6 +523,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -337,6 +534,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
@@ -344,6 +550,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -354,6 +561,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
@@ -361,6 +577,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -371,6 +588,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
@@ -378,6 +604,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -388,6 +615,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
@@ -395,6 +631,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -405,6 +642,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
@@ -412,6 +658,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -422,6 +669,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
@@ -429,6 +685,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -439,6 +696,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
@@ -446,6 +712,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -456,6 +723,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
@@ -463,6 +739,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -473,6 +750,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
@@ -480,6 +766,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -490,6 +777,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
@@ -497,6 +793,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -507,6 +804,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
@@ -514,6 +820,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -524,6 +831,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
@@ -531,6 +847,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -541,6 +858,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
@@ -548,6 +874,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -558,6 +885,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
@@ -565,6 +901,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -575,6 +912,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
@@ -582,6 +928,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -592,6 +939,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
@@ -599,6 +955,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -609,6 +966,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
@@ -616,6 +982,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -626,6 +993,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
@@ -633,6 +1009,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -643,6 +1020,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
@@ -650,6 +1036,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -660,6 +1047,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
@@ -667,6 +1063,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -677,6 +1074,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
@@ -684,6 +1090,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -694,6 +1101,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
@@ -701,6 +1117,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -711,6 +1128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
@@ -718,6 +1144,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -728,6 +1155,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
@@ -735,6 +1171,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -745,6 +1182,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
@@ -752,6 +1198,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -762,6 +1209,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
@@ -769,6 +1225,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -779,6 +1236,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
@@ -786,6 +1252,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -796,6 +1263,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
@@ -803,6 +1279,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -813,6 +1290,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
@@ -820,6 +1306,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -830,6 +1317,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
@@ -837,6 +1333,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -847,6 +1344,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
@@ -854,6 +1360,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -864,6 +1371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
@@ -871,6 +1387,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -881,6 +1398,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
@@ -888,6 +1414,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -898,6 +1425,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
@@ -905,6 +1441,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -915,6 +1452,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
@@ -922,6 +1468,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -932,6 +1479,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
@@ -939,6 +1495,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -949,6 +1506,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
@@ -956,6 +1522,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -966,6 +1533,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
@@ -973,6 +1549,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -983,6 +1560,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
@@ -990,6 +1576,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1000,6 +1587,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
@@ -1007,6 +1603,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1017,6 +1614,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
@@ -1024,6 +1630,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1034,6 +1641,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
@@ -1041,6 +1657,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1051,6 +1668,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "WalletMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
@@ -1058,6 +1684,7 @@
       "SourceId": "WalletMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/wwwroot/",
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
       "BasePath": "_content/WalletMVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1068,7 +1695,11 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+>>>>>>> 49cc1f6965ea9fa32e6e9aa60548567c698680d1
     }
   ]
 }

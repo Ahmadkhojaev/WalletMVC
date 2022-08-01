@@ -8,7 +8,9 @@ builder.Services.AddControllersWithViews();
 
 //DependencyInjection
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection")));
+{
+    options.UseSqlite("Data Source=Category.db");
+}, ServiceLifetime.Singleton);
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

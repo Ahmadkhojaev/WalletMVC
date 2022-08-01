@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\WalletMVC.csproj": {}
+    "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/WalletMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\WalletMVC.csproj": {
+    "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/WalletMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\WalletMVC.csproj",
+        "projectUniqueName": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/WalletMVC.csproj",
         "projectName": "WalletMVC",
-        "projectPath": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\WalletMVC.csproj",
-        "packagesPath": "C:\\Users\\Ahmad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmad\\dotnet\\WalletMVC\\obj\\",
+        "projectPath": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/WalletMVC.csproj",
+        "packagesPath": "/Users/j/.nuget/packages/",
+        "outputPath": "/Users/j/Desktop/Developer/vscode/projects/WalletMVC/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/j/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,13 +42,13 @@
               "target": "Package",
               "version": "[6.0.7, )"
             },
-            "microsoft.entityframeworkcore.design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "microsoft.entityframeworkcore.SQLite": {
               "target": "Package",
               "version": "[6.0.7, )"
             },
-            "microsoft.entityframeworkcore.sqlserver": {
+            "microsoft.entityframeworkcore.design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.7, )"
             },
@@ -71,7 +65,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -83,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400-preview.22330.6/RuntimeIdentifierGraph.json"
         }
       }
     }
